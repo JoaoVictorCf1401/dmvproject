@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156932292432",
+    "project_id": "dmvtreino",
+    "storage_bucket": "dmvtreino.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156932292432:android:047a821334fbb47fd0b655",
+        "android_client_info": {
+          "package_name": "bodygymacompanhamento.dmvtreino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156932292432-hplce5vh2rsc0amurves6hhua9ippv8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdLTca8cKAYuwIccBCcO8jcfSueS_dfp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156932292432-hplce5vh2rsc0amurves6hhua9ippv8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
